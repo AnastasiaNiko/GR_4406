@@ -10,3 +10,7 @@
 
 *git config --global user.email myEmail@example.com*
 
+## Создание репозитория
+Для инициализации репозитория введите команду 
+
+*git init*
